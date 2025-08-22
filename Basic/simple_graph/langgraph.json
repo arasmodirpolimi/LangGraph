@@ -1,0 +1,4 @@
+{
+  "graphs": { "default": "simple_graph:graph" },
+  "dependencies": ["langgraph", "ipython", "pillow"]
+}
