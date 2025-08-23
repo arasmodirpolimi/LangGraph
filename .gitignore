@@ -17,9 +17,9 @@ __pycache__/
 *.code-workspace
 
 # Environment
-# .env
-# *.env
-# .env.*
+.env
+*.env
+.env.*
 
 # OS-specific
 .DS_Store
